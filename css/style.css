@@ -31,7 +31,7 @@ body{
     flex-direction:column; 
 }
 
-header{ 
+.header_midle{ 
     min-height:50px; 
     background:white; 
     pointer-events: none;
@@ -40,6 +40,14 @@ header{
     font-size: 30px;
 }
 
+.header_left{
+    min-height:50px; 
+    background:white; 
+    pointer-events: none;
+    text-align: left;
+    padding:  14px;
+    font-size: 30px;
+}
 
 footer{
     display:flex;
@@ -55,6 +63,8 @@ footer{
 }
 article{
     pointer-events: none;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 
@@ -73,3 +83,4 @@ article{
 .link {
     text-decoration: none;
 }
+
