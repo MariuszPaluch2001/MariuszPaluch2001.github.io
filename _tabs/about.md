@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I'm 21 years old computer science student at Warsaw University of Technology.<br/> In work life I'm interested in data science especially Machine Learning.
+<br/>
+
+In personal life I'm interested in computer games and sport shooting.
+
